@@ -2,6 +2,8 @@
 
 A React app with a counter and a basic four-operation calculator, built with Vite.
 
+Live site: https://sairamareddy9789.github.io/Calculators/
+
 ## Run locally
 
 ```sh
